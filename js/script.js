@@ -1,1 +1,1 @@
-alert("Hell");
+// Put your scripts here
